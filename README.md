@@ -54,7 +54,7 @@ Every item in this repository directly mitigates one of these vectors with a cop
 | :--- | :--- | :--- | :--- |
 | **LLM01** | Prompt Injection (Direct + Indirect) | ✅ Covered | [01-prompt-injection-defense.md](checklists/01-prompt-injection-defense.md) |
 | **LLM02** | Sensitive Information Disclosure / PII | ✅ Covered | [02-pii-redaction-and-sanitization.md](checklists/02-pii-redaction-and-sanitization.md) |
-| **LLM06** | Excessive Agency & Privilege Escalation | ✅ Covered | [03-agent-privilege-isolation.md](checklists/03-agent-privilege-isolation.md) |
+| **LLM06** | Excessive Agency & Privilege Escalation | ✅ Covered | [02-agent-privilege-isolation-and-rbac.md](checklists/02-agent-privilege-isolation-and-rbac.md) |
 
 ---
 
